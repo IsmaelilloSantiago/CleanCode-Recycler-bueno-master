@@ -1,0 +1,161 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "content": "http://simbolosdecanarias.proel.net/xtras/images/map/tenerife.png",
+      "details": "16 Best Places to Visit in the Canary Islands",
+      "isla": "TENERIFE",
+      "products": [
+        {
+          "id": 1,
+          "content": "Subida al Teide",
+          "picture": "https://www.planetware.com/photos-large/E/spain-tenerife-teide-crater.jpg",
+          "details": "Situado en el centro de la isla de Tenerife, el Parque Nacional del Teide puede recorrerse por varios senderos, entre ellos el que lleva hasta el mismo pico del volcán. Con salida desde Montaña Blanca, este itinerario de dificultad alta por el progresivo cambio de altura (sube de 1.367 a 3.718 metros) lleva alrededor de seis horas para llegar al refugio de Altavista. Hay posibilidad de pernoctar si se tramita antes un permiso para aguardar la madrugada y afrontar el último tramo de la subida, que lleva al mismo cráter del Teide. En una ruta preparada para trekking, el itinerario combina pista y sendero en sus nueve kilómetros de recorrido, que pasa por lugares de gran interés geológico como Montaña Rajada, Mina de Pómez, Huevos del Teide, Estancia de los Ingleses y la Rambleta. Para el último tramo queda la vía de Telesforo Bravo, que transcurre entre canales de lava para alcanzar el cráter del volcán. Conviene llevar ropa y calzado adecuados, así como alimentos y bebidas frescas. En el pico se agradece un abrigo para combatir el frío amanecer."
+        },
+        {
+          "id": 7,
+          "content": "Circular de Las Vegas",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/circular_de_las_vegas-list.jpg",
+          "details":"Situada en el sur de Tenerife, la ruta rural recorre el caserío de Las Vegas y permite conocer de cerca las singulares características de la arquitectura tradicional canaria. El recorrido incluye también visitas a los nacientes y a las galerías que llevan agua hasta las zonas altas del sur de la isla. Este escenario natural incluye áreas de pinar canario, especies del sotobosque isleño como la jara y el escobón, así como las especies vegetales endémicas isleñas llamadas tabaiba, verode y tajinaste. Con ocho kilómetros de recorrido y sin apenas desnivel, con puntos de salida y llegada en la ermita de la Virgen de la Esperanza, el trekking por el caserío de Las Vegas transcurre por sus calles asfaltadas para enlazar con caminos empedrados y pistas forestales hasta alcanzar las proximidades del Parque Natural de la Corona Forestal. Por su escasa dificultad, este recorrido puede realizarse en apenas dos horas y media. Conviene llevar ropa y calzado adecuados, además de alimentos y bebidas frescas."
+        },
+        {
+          "id": 9,
+          "content": "La Rambla de Castro",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/rambla_de_castro-list.jpg",
+          "details": "Situada en Los Realejos, en el norte de Tenerife, la Rambla de Castro combina la gran riqueza natural de un paisaje protegido con las huellas del trabajo en los campos de las Islas Canarias. Este trekking nace al nivel del mar sobre la playa de Los Roques para culminar en la Hacienda de Castro, donde el visitante puede recordar los ataques piratas de siglos pasados, comprobar el esplendor de la Casona de Castro y, en La Gordejuela, conocer el lugar donde se instaló el primer motor de vapor que se utilizó para elevar agua en Tenerife. Con dos kilómetros de recorrido y sin apenas desnivel, la ruta de la Rambla de Castro puede realizarse en dos sentidos. Es recomendable empezar en el Hotel Maritim y acabar en el mirador de San Pedro, donde hay más opciones para volver al punto inicial en transporte público. Con dificultad baja, el sendero combina suelo empedrado con zonas de tierra y caminos tradicionales. Además del fortín de San Fernando, construido en el siglo XVIII, se visita la ermita de San Pedro, que alberga una valiosa talla barroca del apóstol."
+        },
+        {
+          "id": 10,
+          "content": "Monte Del Agua",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/monte_del_agua-list.jpg",
+          "details": "Situada entre los municipios de El Tanque, Los Silos y Buenavista del Norte, en el norte de Tenerife, esta cómoda ruta transcurre casi al completo por pista forestal para conectar los núcleos rurales de Erjos y Las Portelas. El sendero atraviesa Monte del Agua y Pasos, un amplio bosque de monteverde con laurisilva y fayal-brezal. Durante el recorrido pueden contemplarse dos tipos de palomas endémicas de Canarias, la rabiche y la turqué. También destacan interesantes ejemplos de arquitectura tradicional con caseríos de teja y muros de piedra. Con sus once kilómetros de longitud y un desnivel de 343 metros, el trekking de Monte del Agua nace en la población de Erjos, lugar de importancia histórica en Canarias por ser punto de conexión de las comarcas norte y sur de Tenerife. Zona de cultivo de cereales y de explotación ganadera, el recorrido transcurre entre laurisilva y pinos, charcas de agua y huertas ganadas al monte en la zona de El Palmar, en el Parque Rural de Teno. De dificultad media, conviene llevar equipación y calzado adecuados. También comida y bebida."
+        },
+        {
+          "id": 11,
+          "content": "Cruz del Carmen-Punta Del Hidalgo",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/cruz_del_carmen-punta_del_hidalgo-list.jpg",
+          "details" : "El sendero que comunica Cruz del Carmen con Punta del Hidalgo incluye tres tramos diferenciados por el tipo de vegetación en el entorno del Parque Rural de Anaga, situado en el norte de Tenerife. En la primera parte de esta ruta, entre Cruz del Carmen y Las Carboneras, reina la laurisilva, que luego da paso a pequeños terrenos agrícolas hasta llegar a la zona de Chinamada. El último tramo del trekking desciende hasta el nivel del mar, con predominio de matorral en Punta del Hidalgo. Con sus diez kilómetros de longitud y un desnivel máximo de 916 metros, esta ruta tiene una dificultad media por su combinación de sendero, pista forestal y algunas zonas de carretera. Con duración aproximada de cuatro horas, conviene llevar equipación y calzado apropiado para este descenso hasta la costa, y también alimentos y bebida fresca. Y no olvide una cámara fotográfica para llevarse un recuerdo de las espléndidas vistas sobre la vega de La Laguna y, en el mirador de Aguaide, una panorámica de la costa de Anaga."
+        },
+        {
+          "id": 5,
+          "content": "Barranco de Masca",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/barranco_de_masca-list.jpg",
+          "details": "Situado en la esquina noroeste de la isla de Tenerife, dentro del municipio de Buenavista del Norte, el barranco de Masca recorre una de las zonas más antiguas de las Islas Canarias, con siete millones de años de historia. Se trata de un barranco con un tramo de paredes verticales muy cercanas que desemboca en un pequeño embarcadero. La ruta no es muy larga, pero el desnivel y la irregularidad del terreno elevan su exigencia. Conviene llevar ropa y calzado adecuados, así como alimentos. Con cuatro kilómetros de longitud y un desnivel de 580 metros, el trekking del barranco parte del caserío de Masca para alcanzar un puente de madera que cruza el cauce por primera vez. El sendero cambia de lado para evitar la corriente de agua, fuerte en invierno, y lleva hasta una zona de canales de riego y pequeñas huertas. Ya en la desembocadura del barranco se pueden contemplar los acantilados de Los Gigantes, adonde es posible llegar en barco si antes se ha realizado la correspondiente reserva."
+        }
+
+      ]
+    },
+    {
+      "id": 2,
+      "content": "http://simbolosdecanarias.proel.net/xtras/images/map/lanzarote.png",
+      "details": "16 Best Places to Visit in the Canary Islands",
+      "isla": "LANZAROTE",
+      "products": [
+        {
+          "id": 2,
+          "content": "Los Ajaches",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/los_ajaches-list.jpg",
+          "details": "Situada en la comarca sureste de Lanzarote, Los Ajaches es una gran formación volcánica que ocupa todo el sur de la isla, con un macizo en la zona de sotavento y llanos pedregosos en barlovento. Esta zona de importante patrimonio arqueológico, en la que encontramos cuevas, grabados y huellas de antiguo pastoreo, se localiza en el municipio de Yaiza. Esta área, la más antigua de la isla, sigue sometida a un intenso desmantelamiento por la erosión, que en los últimos diez millones de años talló los barrancos que atraviesa esta ruta natural. Con un recorrido de seis kilómetros de notable desnivel, lo que eleva su grado de dificultad, el trekking de Los Ajaches nace en el pueblo de Femés sobre sendero, pista, paseo peatonal y carretera. Su entorno natural ofrece la posibilidad de conocer una vegetación que está compuesta por matorral árido, con presencia de tabaibales en las zonas más resguardadas. La población animal incluye aves esteparias y rapaces, además de marinas en los acantilados costeros. No olvide llevar calzado adecuado, así como alimentos y bebidas."
+        },
+        {
+          "id": 12,
+          "content": "Camino los Gracioseros",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/camino_de_los_gracioseros-list.jpg",
+          "details": "Esta ruta de trekking recorre el camino que los habitantes de La Graciosa utilizaban para ir y volver de la isla de Lanzarote. El itinerario, de 4,5 kilómetros y dificultad de media a alta según sea de descenso o ascenso, transcurre por los riscos de Famara, en el norte, con La Graciosa a la vista más allá del estrecho del Río. El sendero sobre rocas volcánicas, con tramos algo resbaladizos, culmina al nivel del mar. Como recompensa, tras el recorrido bien merece la pena un buen baño en las aguas azules del Río. Para iniciar este recorrido es necesario tomar el desvío hacia el mirador del Río, que está situado a la salida del pueblo de Yé camino a Guinate. Se trata de una ruta de gran encanto, con unas magníficas vistas de la zona costera de Lanzarote, con un primer tramo de empedrado a partir de la salida desde Yé hacia Guinate, donde el sendero descendente se desarrolla en zigzag. Además del paseo, este trekking permite conocer la importante flora y fauna de la zona, con numerosos endemismos y especies protegidas."
+        },
+        {
+          "id": 13,
+          "content": "Caldera Blanca",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/caldera_blanca-list.jpg",
+          "details": "Situada en el centro de la isla de Lanzarote, la ruta de Caldera Blanca atraviesa una zona de malpaís volcánico abundante en formas de lava que son producto de las erupciones ocurridas entre 1730 y 1736. Sus dos elementos centrales, la Caldereta y Caldera Blanca, proceden de dos conos antiguos generados por erupciones anteriores. Caldera Blanca es una de las principales alturas de las cadenas volcánicas del centro de la isla. El trekking por la ruta de Caldera Blanca comienza en la iglesia de los Dolores, sede de la patrona insular. Se encuentra en el límite norte que marca el final de una de las lenguas de lava del volcán Timanfaya, donde arranca un trayecto de diez kilómetros sin gran desnivel que combina sendero, pista y asfalto. Apto para todos los públicos, conviene llevar ropa y calzado adecuados y no olvidar protección solar y bebidas para afrontar un recorrido de tres horas."
+        }
+
+      ]
+    },
+    {
+      "id": 3,
+      "content": "http://simbolosdecanarias.proel.net/xtras/images/map/gran-canaria.png",
+      "details": "16 Best Places to Visit in the Canary Islands",
+      "isla": "GRAN CANRIA",
+      "products": [
+        {
+          "id": 3,
+          "content": "Ruta de las Presas",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/PH14073-list.jpg",
+          "details": "Cerca de Mogán, en el interior de Gran Canaria, existe una ruta de senderismo que recorre el Parque Rural del Nublo y el Parque Natural de Pilancones. Con una longitud de 12,2 kilómetros a través de pistas de tierra, senderos y asfalto, esta ruta circular está reservada para senderistas con cierta experiencia. Comienza en Degollada de Cruz Grande, desde donde se atraviesa un magnífico pinar, hasta llegar a la presa de Soria, la mayor de la isla. Recorre también algunas impresionantes formaciones volcánicas en la zona de Cañada del Almácigo. El senderista podrá conocer, a través de esta ruta, las tradicionales casas cueva que aún perduran en Gran Canaria. Cabe destacar que muy cerca de la presa de Chira se encuentra un albergue dedicado al turismo rural. Ya que el recorrido es largo, es aconsejable llevar agua para mantenerse hidratado, alimentos, ropa de abrigo y protección solar."
+        },
+        {
+          "id": 8,
+          "content": "Caldera de Bandama",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/caldera_de_bandama-list.jpg",
+          "details": "Localizada entre los municipios de Santa Brígida, Telde y Las Palmas de Gran Canaria, la ruta por la caldera de Bandama se extiende por los barrancos de Las Goteras y Guiniguada, en dirección a la costa. Este espacio de gran riqueza natural se formó hace cinco mil millones de años junto al antiguo volcán Pico de Bandama. La caldera tiene 216 metros de profundidad, 574 metros de altura y mil metros de diámetro. Junto a su valor geológico, destaca el yacimiento arqueológico Cueva de los Canarios, que los antiguos pobladores usaban como silo para guardar cosechas y alimentos. Con una ruta de trekking que apenas supera los tres kilómetros, la ruta por la caldera de Bandama (así bautizada por un comerciante flamenco de apellido Van Damme) atraviesa el mirador del Cornical para continuar las Casas de Fondo, la cueva de las Bodegas, el estanque de El Culatón y el cruce de las Tres Piedras. De dificultad exigente y con pendiente media del 18%, el camino permite conocer plantas como el tajinaste blanco y el acebuche, así como el cernícalo y el capirote, aves isleñas. No olvide llevar protección solar."
+        },
+        {
+          "id": 16,
+          "content": "Roque Nublo",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/roque_nublo-list.jpg",
+          "details": "Situado en el municipio central de Tejeda, en la isla de Gran Canaria, el Roque Nublo es considerado una de las peñas naturales más grandes del mundo. De especial significado para los isleños, este roque de origen volcánico se eleva ochenta metros sobre su base y 1.813 metros sobre el mar. Antiguo lugar de culto para los aborígenes, todo su entorno fue declarado espacio natural protegido en 1987 y parque rural siete años después. Su enorme presencia solo es superada en altura por el pico de Las Nieves, con 1.949 metros, el lugar más elevado de Gran Canaria. La ruta del Roque Nublo nace en la carretera general, desde donde se recorren 1,5 kilómetros hasta llegar a las cercanías de este monumento singular y de su hermano, el roque de La Rana. Antes se pasa por otro elemento natural destacado, el roque de El Fraile. Este trekking también permite contemplar las localidades de Artenara y Acusa. Las vistas de la caldera de Tejeda, Llanos de la Pez y Pozo de las Nieves compensan el esfuerzo del recorrido."
+        }
+
+      ]
+    },
+    {
+      "id": 4,
+      "content": "http://simbolosdecanarias.proel.net/xtras/images/map/fuerteventura.png",
+      "details": "16 Best Places to Visit in the Canary Islands",
+      "isla": "FUERTEVENTURA",
+      "products": [
+        {
+          "id": 6,
+          "content": "Gran Valle",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/gran_valle-list.jpg",
+          "details": "Una pista de tierra que une Morro Jable con Jandía marca el inicio de un recorrido espectacular y de gran valor natural. Es el sendero que arranca a los pies de Gran Valle, en el sur de Fuerteventura, y muere en la siempre bella y salvaje playa de Cofete. Una caminata llevadera, de dos horas y media, en la que se que va dibujando el paisaje de colores cambiantes que regala el Parque Natural de Jandía, a través de uno de sus macizos más importantes, y a la vez, hogar de una joya botánica de la isla: el cardón de Jandía. a ruta, de casi seis kilómetros y medio, se inicia por la ladera norte del barranco, entre cardones y tabaibas. Un impactante muro que se erige en solitario en el cauce de Gran Valle, atravesándolo de lado a lado, precede a los restos de un poblado aborigen. Casi sin sentirlo se asciende hasta la degollada, donde comienza un agradable descenso por la ladera sur, hasta la infinita y hermosa playa de Cofete. Naturaleza en estado puro que contrasta con la enigmática casa Winter, con el caserío, y con un antiguo cementerio sobre la arena. Un paisaje de silencios y aridez."
+        }
+
+      ]
+    },
+    {
+      "id": 5,
+      "content": "http://simbolosdecanarias.proel.net/xtras/images/map/la-palma.png",
+      "details": "16 Best Places to Visit in the Canary Islands",
+      "isla": "LA PALMA",
+      "products": [
+        {
+          "id": 14,
+          "content": "Nacientes Marcos y Cordero",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/nacientes_marcos_y_cordero-list.jpg",
+          "details": "Situado en la comarca norte de la isla de La Palma, el sendero va en paralelo al canal que recoge aguas de los nacientes y transcurre por la gran caldera de Marcos y Cordero. Atraviesa esos barrancos para confluir luego en el barranco del Agua. Su paisaje, repleto de pinos canarios y vegetación autóctona, también permite disfrutar de una serie de grandes paredes verticales típicas del norte isleño y que anuncian el Parque Nacional de la Caldera de Taburiente. Con un itinerario que abarca siete kilómetros del municipio de San Andrés y Sauces, la ruta de nacientes de Marcos y Cordero tiene un recorrido circular de escaso desnivel durante las tres horas que se necesitan para completarla. Con salida y llegada en la Casa del Monte, este trekking ofrece un paisaje vegetal singular con pinos frondosos y vestigios de laurisilva. A la salida se puede degustar un delicioso potaje de trigo en un restaurante de la zona."
+        },
+        {
+          "id": 4,
+          "content": "Caldera de Taburiente",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/lis-sendero-caldera-la-palma.jpg",
+          "details": "Situado en el corazón de la isla de La Palma, el Parque Nacional de la Caldera de Taburiente ofrece varias posibilidades para todos los amantes del trekking. Además de la excursión de entrada al parque y la salida posterior por el barranco de las Angustias, las cercanías incluyen también rutas por el cercano Pino de la Virgen, por la zona recreativa de la Cumbrecita e incluso subir el pico Bejenado y disfrutar de una panorámica única del interior de la Caldera. El sendero de entrada a la Caldera de Taburiente es extenso y de una dificultad notable. No obstante, existe la posibilidad de cortar camino si se opta por hacer la ruta desde Los Brecitos y abarcar solo la entrada y la salida de la zona recreativa interior a través del barranco de Las Angustias. En todo caso, conviene llevar ropa y calzado adecuados, protección solar, comida y bebidas frescas. A la salida, antes de regresar a Los Llanos de Aridane, puede tomar unas tapas y un refresco en el mirador del Lomo de los Caballos."
+        },
+        {
+          "id": 17,
+          "content": "Cubo de la Galga",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/cubo_de_la_galga-list.jpg",
+          "details": "Situado en el nordeste de la isla de La Palma, el Cubo de la Galga puede recorrerse en dos partes: una excursión circular por la zona más vistosa de laurisilva o una ruta más larga que comunica el sendero con la montaña de La Galga con el mirador de San Bartolomé para seguir camino a Puntallana o San Andrés y Sauces. Como complemento al recorrido, ya fuera de esta área, se puede disfrutar de platos típicos en merenderos de la localidad. Con una dificultad apropiada para pasear con niños o personas de edad, el sendero del Cubo de la Galga comienza entre matorrales y pequeños arbustos para finalizar entre ejemplares propios de las zonas de fayal-brezal. El recorrido mide unos doce kilómetros, con desnivel máximo de 750 metros, lo que hace posible realizar su ruta en unas cuatro horas. Conviene, como siempre, llevar ropa y calzado adecuados, además de comida y bebida para hacer un almuerzo ligero por el camino."
+        }
+
+
+      ]
+    },
+    {
+      "id": 6,
+      "content": "http://simbolosdecanarias.proel.net/xtras/images/map/la-gomera.png",
+      "details": "16 Best Places to Visit in the Canary Islands",
+      "isla": "LA GOMERA",
+      "products": [
+        {
+          "id": 15,
+          "content": "Barranco de Santiago",
+          "picture": "https://www.holaislascanarias.com/sites/default/files/resources/list_image/barranco_de_santiago-list.jpg",
+          "details": "Situada en San Sebastián de La Gomera, esta ruta es buena muestra de los paisajes isleños. El trekking transita por monteverde en Agando, palmerales en el cauce del barranco y, al final, tabaibas y cardones cerca de un caserío de arquitectura rural con casas salpicadas entre bancales de cultivo. También se visitan zonas de agricultura de cereales en la ermita de San Juan Bautista, un viejo molino hidráulico en Pastrana e infraestructuras modernas para aprovechar el agua como el pozo y la presa de Benchijigua. Con doce kilómetros de recorrido y un desnivel que supera los mil metros, la ruta por el barranco de Benchijigua transcurre por pista asfaltada y sendero rural durante las tres horas y media del paseo. Este trekking ofrece estampas detenidas en el tiempo, como varios caseríos que fueron abandonados a mediados el siglo pasado y, ya en el tramo final, antiguas fincas de plátanos en la zona de Puerto Santiago. No olvide calzado adecuado y protección solar."
+        }
+
+      ]
+    }
+  ]
+}
